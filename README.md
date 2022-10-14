@@ -6,7 +6,7 @@ Project ini menerapkan resposive design untuk aplikasi android ini. Resposive me
 
 ![ral](images/android_view.png)
 
-## Hasil saat Layar memiliki lebar yang lebar
+## Hasil saat Layar memiliki lebar yang lebih besar
 
 ![ral](images/desktop_view.png)
 
