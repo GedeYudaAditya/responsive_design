@@ -1,8 +1,18 @@
-# responsive_design
+# Project responsive_design
 
-A new Flutter project.
+Project ini menerapkan resposive design untuk aplikasi android ini. Resposive merupakan suatu adaptasi sebuah desain menyesuaikan dengan lebar layar suatu device yang menjalankannya. Desain responsif menyesuaikan elemen desainnya sesuai dengan lebar layar. Desain seperti ini menampilkan konten sesuai dengan ruang layarnya.
 
-## Getting Started
+## Hasil saat Layar memiliki lebar yang kecil
+
+![ral](images/android_view.png)
+
+## Hasil saat Layar memiliki lebar yang lebar
+
+![ral](images/desktop_view.png)
+
+## Bukti Kerja
+
+![ral](images/bukti_buat.png)
 
 This project is a starting point for a Flutter application.
 
